@@ -1,3 +1,11 @@
+7. 豆瓣爬虫
+
+时间：2017年
+https://github.com/fortyMiles/get_douban_comments
+介绍：该项目为使用爬虫获得豆瓣电影评论的源代码，当年尚无相关法律规定。现在是否符合法律法规请大家自行查阅相关规定。
+
+
+
 ## Comment Spider 豆瓣电影评论爬虫程序
 
 Author: Minchiuan(minchiuan.gao@gmail.com)
